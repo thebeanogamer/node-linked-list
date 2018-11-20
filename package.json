@@ -1,0 +1,22 @@
+{
+  "name": "linked-list",
+  "version": "1.0.0",
+  "description": "A simple linked list program written in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebeanogamer/node-linked-list.git"
+  },
+  "author": "Daniel Milnes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebeanogamer/node-linked-list/issues"
+  },
+  "homepage": "https://github.com/thebeanogamer/node-linked-list#readme",
+  "dependencies": {
+    "node-cmd": "^3.0.0"
+  }
+}
